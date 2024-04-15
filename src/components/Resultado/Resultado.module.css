@@ -1,0 +1,83 @@
+.resultado {
+    border: solid 1px #CCC;
+    border-radius: 15px;
+    margin-top: -20px;
+    padding: 24px 24px;
+    background-color: #FFF;    
+}
+
+h2 {
+    margin-top: 16px;
+    margin-bottom: 16px;
+}
+
+img {
+    max-height: 40vh;
+    margin: auto;
+    display: block;
+    margin-bottom: 16px;
+}
+
+.default {
+    background-color: #d1d1d1;
+}
+
+.texto_default {
+    color: #000;
+}
+
+.m_abaixo {
+    background-color: #2c5efd;
+}
+
+.texto_m_abaixo {
+    color: #2c5efd;
+}
+
+.abaixo {
+    background-color: #01b4f6;
+}
+
+.texto_abaixo {
+    color: #01b4f6;
+}
+
+.normal {
+    background-color: #33d33f;
+}
+
+.texto_normal {
+    color: #33d33f;
+}
+
+.sobrepeso {
+    background-color: #fee600;
+}
+
+.texto_sobrepeso {
+    color: #fee600;
+}
+
+.obesidadeI{
+    background-color: #feac00;
+}
+
+.texto_obesidadeI {
+    color: #feac00;
+}
+
+.obesidadeII {
+    background-color: #fc772a;
+}
+
+.texto_obesidadeII {
+    color: #fc772a;
+}
+
+.obesidadeIII {
+    background-color: #fb301f;
+}
+
+.texto_obesidadeIII {
+    color: #fb301f;
+}

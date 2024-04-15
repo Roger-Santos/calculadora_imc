@@ -1,0 +1,32 @@
+.campos {
+    display: flex;
+    justify-content: center;
+    border: solid 1px #CCC;
+    border-radius: 15px;
+    padding: 48px 36px;
+    height: 20vh;
+} 
+
+.bloco_esquerda, .bloco_direita{    
+    margin: 0 48px;
+}
+
+.campos_numeros {
+    margin-left: 8px;
+    padding: 8px;
+    border: none;
+    border-bottom: solid 2px #aaaaaa;   
+    border-radius: 8px; 
+    background-color: #ffffff;
+    text-align: center;
+    font-weight: 700;
+    font-size: 1.1em;
+}
+
+.campos_label {
+    font-weight: 700;
+}
+
+
+
+

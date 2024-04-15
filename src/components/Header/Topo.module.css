@@ -1,0 +1,15 @@
+.header {
+    background-image: url("../../assets/banner_2.jpg");
+    background-size: cover;
+    height: 15vh;
+    text-align: center;
+    padding-top: 6vh;
+    border-bottom: solid 1px #ccc;
+    margin-bottom: 8px;
+
+    h1 {
+        color: #000;
+        text-transform: uppercase;
+    }   
+}
+
